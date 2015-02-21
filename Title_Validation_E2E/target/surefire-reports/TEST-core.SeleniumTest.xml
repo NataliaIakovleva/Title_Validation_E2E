@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="25" failures="0" name="core.SeleniumTest" time="0.003" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_25\jre\bin"/>
+    <property name="java.vm.version" value="25.25-b02"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\GoogleDisc\Nata_QA\Workspace_homework_41_1\Title_Validation_E2E"/>
+    <property name="java.runtime.version" value="1.8.0_25-b18"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_25\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Sergey\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 8.1"/>
+    <property name="classworlds.conf" value="D:\GoogleDisc\Nata_QA\Workspace_homework_41_1\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf328528880766203049.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_25\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.8.0_25/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_25/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_25/bin/../jre/lib/amd64;C:\Program Files (x86)\Git\bin;C:\Program Files\MySQL\MySQL Server 5.6\bin;F:\Apps\eclipse;C:\Program Files\Java\jdk1.8.0_25\bin;C:\ProgramData\Oracle\Java\javapath;F:\Apps\apache-maven-3.2.5\bin;C:\Program Files\Broadcom\Broadcom 802.11 Network Adapter\Driver;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Apps\Vagrant\bin;C:\Apps\Puppet Labs\Puppet Enterprise\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn;F:\Apps\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.3"/>
+    <property name="user.home" value="C:\Users\Sergey"/>
+    <property name="user.timezone" value="America/Los_Angeles"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1251"/>
+    <property name="user.name" value="serg3d"/>
+    <property name="java.class.path" value="/F:/Apps/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.5.0.20140605-2032/jars/plexus-classworlds-2.5.1.jar"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_25\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B site"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_25"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_25\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_25\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_25\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\GoogleDisc\Nata_QA\Workspace_homework_41_1\Title_Validation_E2E\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="core.SeleniumTest" name="test_Title_Validation[Iteration # 0 : exp: learn2test.net; act: learn2test.net]" time="0.003"/>
+  <testcase classname="core.SeleniumTest" name="test_Title_Validation[Iteration # 1 : exp: Google; act: Google]" time="0"/>
+  <testcase classname="core.SeleniumTest" name="test_Title_Validation[Iteration # 2 : exp: Яндекс; act: Яндекс]" time="0"/>
+  <testcase classname="core.SeleniumTest" name="test_Title_Validation[Iteration # 3 : exp: Wikipedia; act: Wikipedia]" time="0"/>
+  <testcase classname="core.SeleniumTest" name="test_Title_Validation[Iteration # 4 : exp: Wikipedia, the free encyclopedia; act: Wikipedia, the free encyclopedia]" time="0"/>
+  <testcase classname="core.SeleniumTest" name="test_Title_Validation[Iteration # 5 : exp: City Bank | Personal &amp; Business Banking - Auto &amp; Home Loans; act: City Bank | Personal &amp; Business Banking - Auto &amp; Home Loans]" time="0"/>
+  <testcase classname="core.SeleniumTest" name="test_Title_Validation[Iteration # 6 : exp: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs &amp; more; act: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs &amp; more]" time="0"/>
+  <testcase classname="core.SeleniumTest" name="test_Title_Validation[Iteration # 7 : exp: Stanford University; act: Stanford University]" time="0"/>
+  <testcase classname="core.SeleniumTest" name="test_Title_Validation[Iteration # 8 : exp: Home Page - City of Palo Alto; act: Home Page - City of Palo Alto]" time="0"/>
+  <testcase classname="core.SeleniumTest" name="test_Title_Validation[Iteration # 9 : exp: Google News; act: Google News]" time="0"/>
+  <testcase classname="core.SeleniumTest" name="test_Title_Validation[Iteration # 10 : exp: Wells Fargo - Personal &amp; Business Banking - Student, Auto &amp; Home Loans - Investing &amp; Insurance; act: Wells Fargo - Personal &amp; Business Banking - Student, Auto &amp; Home Loans - Investing &amp; Insurance]" time="0"/>
+  <testcase classname="core.SeleniumTest" name="test_Title_Validation[Iteration # 11 : exp: American Airlines - Airline tickets and cheap flights at AA.com; act: American Airlines - Airline tickets and cheap flights at AA.com]" time="0"/>
+  <testcase classname="core.SeleniumTest" name="test_Title_Validation[Iteration # 12 : exp: Apple; act: Apple]" time="0"/>
+  <testcase classname="core.SeleniumTest" name="test_Title_Validation[Iteration # 13 : exp: Personal banking | HSBC; act: Personal banking | HSBC]" time="0"/>
+  <testcase classname="core.SeleniumTest" name="test_Title_Validation[Iteration # 14 : exp: Welcome to Forbes; act: Welcome to Forbes]" time="0"/>
+  <testcase classname="core.SeleniumTest" name="test_Title_Validation[Iteration # 15 : exp: CHASE Bank - Credit Cards, Mortgage, Personal &amp; Commercial Banking, Auto Loans, Investing, Retirement Planning, Checking, and Business Banking; act: CHASE Bank - Credit Cards, Mortgage, Personal &amp; Commercial Banking, Auto Loans, Investing, Retirement Planning, Checking, and Business Banking]" time="0"/>
+  <testcase classname="core.SeleniumTest" name="test_Title_Validation[Iteration # 16 : exp: BNY Mellon | The Investments Company for the World; act: BNY Mellon | The Investments Company for the World]" time="0"/>
+  <testcase classname="core.SeleniumTest" name="test_Title_Validation[Iteration # 17 : exp: The Bancorp; act: The Bancorp]" time="0"/>
+  <testcase classname="core.SeleniumTest" name="test_Title_Validation[Iteration # 18 : exp: PNC Bank - Personal Banking; act: PNC Bank - Personal Banking]" time="0"/>
+  <testcase classname="core.SeleniumTest" name="test_Title_Validation[Iteration # 19 : exp: Capital One Credit Cards, Bank, and Loans - Personal and Business; act: Capital One Credit Cards, Bank, and Loans - Personal and Business]" time="0"/>
+  <testcase classname="core.SeleniumTest" name="test_Title_Validation[Iteration # 20 : exp: Home; act: Home]" time="0"/>
+  <testcase classname="core.SeleniumTest" name="test_Title_Validation[Iteration # 21 : exp: Personal Banking - Personal Bank Accounts from SunTrust; act: Personal Banking - Personal Bank Accounts from SunTrust]" time="0"/>
+  <testcase classname="core.SeleniumTest" name="test_Title_Validation[Iteration # 22 : exp: American Express Credit Cards, Rewards, Travel and Business Services; act: American Express Credit Cards, Rewards, Travel and Business Services]" time="0"/>
+  <testcase classname="core.SeleniumTest" name="test_Title_Validation[Iteration # 23 : exp: Google Maps; act: Google Maps]" time="0"/>
+  <testcase classname="core.SeleniumTest" name="test_Title_Validation[Iteration # 24 : exp: List of largest banks in the United States - Wikipedia, the free encyclopedia; act: List of largest banks in the United States - Wikipedia, the free encyclopedia]" time="0"/>
+</testsuite>

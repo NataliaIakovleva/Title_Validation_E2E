@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="SeleniumTest" project="Title_Validation_E2E" tests="25" started="25" failures="6" errors="0" ignored="0">
+  <testsuite name="core.SeleniumTest" time="0.011">
+    <testsuite name="[Iteration # 0 : exp: learn2test.net; act: learn2test.net]" time="0.0">
+      <testcase name="test_Title_Validation[Iteration # 0 : exp: learn2test.net; act: learn2test.net]" classname="core.SeleniumTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[Iteration # 1 : exp: Google; act: Google]" time="0.0">
+      <testcase name="test_Title_Validation[Iteration # 1 : exp: Google; act: Google]" classname="core.SeleniumTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[Iteration # 2 : exp: ������; act: Яндекс]" time="0.006">
+      <testcase name="test_Title_Validation[Iteration # 2 : exp: ������; act: Яндекс]" classname="core.SeleniumTest" time="0.006">
+        <failure>
+          <expected>������</expected>
+          <actual>Яндекс</actual>org.junit.ComparisonFailure: FAILED expected:&lt;[������]&gt; but was:&lt;[Яндекс]&gt;&#13;
+	at org.junit.Assert.assertEquals(Assert.java:115)&#13;
+	at core.SeleniumTest.test_Title_Validation(SeleniumTest.java:45)&#13;
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)&#13;
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.lang.reflect.Method.invoke(Method.java:483)&#13;
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)&#13;
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)&#13;
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.junit.runners.Suite.runChild(Suite.java:128)&#13;
+	at org.junit.runners.Suite.runChild(Suite.java:27)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</failure>
+      </testcase>
+    </testsuite>
+    <testsuite name="[Iteration # 3 : exp: Wikipedia; act: Wikipedia]" time="0.0">
+      <testcase name="test_Title_Validation[Iteration # 3 : exp: Wikipedia; act: Wikipedia]" classname="core.SeleniumTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[Iteration # 4 : exp:  the free encyclopedia; act: Main Page,Wikipedia - Wikipedia, the free encyclopedia]" time="0.001">
+      <testcase name="test_Title_Validation[Iteration # 4 : exp:  the free encyclopedia; act: Main Page,Wikipedia - Wikipedia, the free encyclopedia]" classname="core.SeleniumTest" time="0.001">
+        <failure>
+          <expected> the free encyclopedia</expected>
+          <actual>Main Page,Wikipedia - Wikipedia, the free encyclopedia</actual>org.junit.ComparisonFailure: FAILED expected:&lt;[] the free encycloped...&gt; but was:&lt;[Main Page,Wikipedia - Wikipedia,] the free encycloped...&gt;&#13;
+	at org.junit.Assert.assertEquals(Assert.java:115)&#13;
+	at core.SeleniumTest.test_Title_Validation(SeleniumTest.java:45)&#13;
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)&#13;
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.lang.reflect.Method.invoke(Method.java:483)&#13;
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)&#13;
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)&#13;
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.junit.runners.Suite.runChild(Suite.java:128)&#13;
+	at org.junit.runners.Suite.runChild(Suite.java:27)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</failure>
+      </testcase>
+    </testsuite>
+    <testsuite name="[Iteration # 5 : exp: City Bank | Personal &amp; Business Banking - Auto &amp; Home Loans; act: City Bank | Personal &amp; Business Banking - Auto &amp; Home Loans]" time="0.0">
+      <testcase name="test_Title_Validation[Iteration # 5 : exp: City Bank | Personal &amp; Business Banking - Auto &amp; Home Loans; act: City Bank | Personal &amp; Business Banking - Auto &amp; Home Loans]" classname="core.SeleniumTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[Iteration # 6 : exp: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs &amp; more; act: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs &amp; more]" time="0.0">
+      <testcase name="test_Title_Validation[Iteration # 6 : exp: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs &amp; more; act: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs &amp; more]" classname="core.SeleniumTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[Iteration # 7 : exp: Stanford University; act: Stanford University]" time="0.0">
+      <testcase name="test_Title_Validation[Iteration # 7 : exp: Stanford University; act: Stanford University]" classname="core.SeleniumTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[Iteration # 8 : exp: Home Page - City of Palo Alto; act: Home Page - City of Palo Alto]" time="0.0">
+      <testcase name="test_Title_Validation[Iteration # 8 : exp: Home Page - City of Palo Alto; act: Home Page - City of Palo Alto]" classname="core.SeleniumTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[Iteration # 9 : exp: (5) Facebook; act: Welcome to Facebook - Log In, Sign Up or Learn More]" time="0.0">
+      <testcase name="test_Title_Validation[Iteration # 9 : exp: (5) Facebook; act: Welcome to Facebook - Log In, Sign Up or Learn More]" classname="core.SeleniumTest" time="0.0">
+        <failure>
+          <expected>(5) Facebook</expected>
+          <actual>Welcome to Facebook - Log In, Sign Up or Learn More</actual>org.junit.ComparisonFailure: FAILED expected:&lt;[(5) Facebook]&gt; but was:&lt;[Welcome to Facebook - Log In, Sign Up or Learn More]&gt;&#13;
+	at org.junit.Assert.assertEquals(Assert.java:115)&#13;
+	at core.SeleniumTest.test_Title_Validation(SeleniumTest.java:45)&#13;
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)&#13;
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.lang.reflect.Method.invoke(Method.java:483)&#13;
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)&#13;
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)&#13;
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.junit.runners.Suite.runChild(Suite.java:128)&#13;
+	at org.junit.runners.Suite.runChild(Suite.java:27)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</failure>
+      </testcase>
+    </testsuite>
+    <testsuite name="[Iteration # 10 : exp: Wells Fargo - Personal &amp; Business Banking - Student, Auto &amp; Home Loans - Investing &amp; Insurance; act: Wells Fargo - Personal &amp; Business Banking - Student, Auto &amp; Home Loans - Investing &amp; Insurance]" time="0.0">
+      <testcase name="test_Title_Validation[Iteration # 10 : exp: Wells Fargo - Personal &amp; Business Banking - Student, Auto &amp; Home Loans - Investing &amp; Insurance; act: Wells Fargo - Personal &amp; Business Banking - Student, Auto &amp; Home Loans - Investing &amp; Insurance]" classname="core.SeleniumTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[Iteration # 11 : exp: American Airlines - Airline tickets and cheap flights at AA.com; act: American Airlines - Airline tickets and cheap flights at AA.com]" time="0.0">
+      <testcase name="test_Title_Validation[Iteration # 11 : exp: American Airlines - Airline tickets and cheap flights at AA.com; act: American Airlines - Airline tickets and cheap flights at AA.com]" classname="core.SeleniumTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[Iteration # 12 : exp: Bank of America � Banking, Credit Cards, Mortgages and Investing; act: Bank of America — Banking, Credit Cards, Mortgages and Investing]" time="0.0">
+      <testcase name="test_Title_Validation[Iteration # 12 : exp: Bank of America � Banking, Credit Cards, Mortgages and Investing; act: Bank of America — Banking, Credit Cards, Mortgages and Investing]" classname="core.SeleniumTest" time="0.0">
+        <failure>
+          <expected>Bank of America � Banking, Credit Cards, Mortgages and Investing</expected>
+          <actual>Bank of America — Banking, Credit Cards, Mortgages and Investing</actual>org.junit.ComparisonFailure: FAILED expected:&lt;Bank of America [�] Banking, Credit Car...&gt; but was:&lt;Bank of America [—] Banking, Credit Car...&gt;&#13;
+	at org.junit.Assert.assertEquals(Assert.java:115)&#13;
+	at core.SeleniumTest.test_Title_Validation(SeleniumTest.java:45)&#13;
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)&#13;
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.lang.reflect.Method.invoke(Method.java:483)&#13;
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)&#13;
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)&#13;
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.junit.runners.Suite.runChild(Suite.java:128)&#13;
+	at org.junit.runners.Suite.runChild(Suite.java:27)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</failure>
+      </testcase>
+    </testsuite>
+    <testsuite name="[Iteration # 13 : exp: Personal banking | HSBC; act: Personal banking | HSBC]" time="0.0">
+      <testcase name="test_Title_Validation[Iteration # 13 : exp: Personal banking | HSBC; act: Personal banking | HSBC]" classname="core.SeleniumTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[Iteration # 14 : exp: Information for the World's Business Leaders - Forbes.com; act: Welcome to Forbes]" time="0.001">
+      <testcase name="test_Title_Validation[Iteration # 14 : exp: Information for the World's Business Leaders - Forbes.com; act: Welcome to Forbes]" classname="core.SeleniumTest" time="0.001">
+        <failure>
+          <expected>Information for the World's Business Leaders - Forbes.com</expected>
+          <actual>Welcome to Forbes</actual>org.junit.ComparisonFailure: FAILED expected:&lt;[Information for the World's Business Leaders - Forbes.com]&gt; but was:&lt;[Welcome to Forbes]&gt;&#13;
+	at org.junit.Assert.assertEquals(Assert.java:115)&#13;
+	at core.SeleniumTest.test_Title_Validation(SeleniumTest.java:45)&#13;
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)&#13;
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.lang.reflect.Method.invoke(Method.java:483)&#13;
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)&#13;
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)&#13;
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.junit.runners.Suite.runChild(Suite.java:128)&#13;
+	at org.junit.runners.Suite.runChild(Suite.java:27)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</failure>
+      </testcase>
+    </testsuite>
+    <testsuite name="[Iteration # 15 : exp: CHASE Bank - Credit Cards, Mortgage, Personal &amp; Commercial Banking, Auto Loans, Investing, Retirement Planning, Checking, and Business Banking; act: CHASE Bank - Credit Cards, Mortgage, Personal &amp; Commercial Banking, Auto Loans, Investing, Retirement Planning, Checking, and Business Banking]" time="0.0">
+      <testcase name="test_Title_Validation[Iteration # 15 : exp: CHASE Bank - Credit Cards, Mortgage, Personal &amp; Commercial Banking, Auto Loans, Investing, Retirement Planning, Checking, and Business Banking; act: CHASE Bank - Credit Cards, Mortgage, Personal &amp; Commercial Banking, Auto Loans, Investing, Retirement Planning, Checking, and Business Banking]" classname="core.SeleniumTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[Iteration # 16 : exp: BNY Mellon | The Investments Company for the World; act: BNY Mellon | The Investments Company for the World]" time="0.0">
+      <testcase name="test_Title_Validation[Iteration # 16 : exp: BNY Mellon | The Investments Company for the World; act: BNY Mellon | The Investments Company for the World]" classname="core.SeleniumTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[Iteration # 17 : exp: The Bancorp; act: The Bancorp]" time="0.001">
+      <testcase name="test_Title_Validation[Iteration # 17 : exp: The Bancorp; act: The Bancorp]" classname="core.SeleniumTest" time="0.001"/>
+    </testsuite>
+    <testsuite name="[Iteration # 18 : exp: PNC Bank - Personal Banking; act: PNC Bank - Personal Banking]" time="0.0">
+      <testcase name="test_Title_Validation[Iteration # 18 : exp: PNC Bank - Personal Banking; act: PNC Bank - Personal Banking]" classname="core.SeleniumTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[Iteration # 19 : exp: Capital One Credit Cards, Bank, and Loans - Personal and Business; act: Capital One Credit Cards, Bank, and Loans - Personal and Business]" time="0.0">
+      <testcase name="test_Title_Validation[Iteration # 19 : exp: Capital One Credit Cards, Bank, and Loans - Personal and Business; act: Capital One Credit Cards, Bank, and Loans - Personal and Business]" classname="core.SeleniumTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[Iteration # 20 : exp: Home; act: Home]" time="0.0">
+      <testcase name="test_Title_Validation[Iteration # 20 : exp: Home; act: Home]" classname="core.SeleniumTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[Iteration # 21 : exp: Personal Banking - Personal Bank Accounts from SunTrust; act: Personal Banking - Personal Bank Accounts from SunTrust]" time="0.0">
+      <testcase name="test_Title_Validation[Iteration # 21 : exp: Personal Banking - Personal Bank Accounts from SunTrust; act: Personal Banking - Personal Bank Accounts from SunTrust]" classname="core.SeleniumTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[Iteration # 22 : exp: American Express Credit Cards, Rewards, Travel and Business Services; act: American Express Credit Cards, Rewards, Travel and Business Services]" time="0.0">
+      <testcase name="test_Title_Validation[Iteration # 22 : exp: American Express Credit Cards, Rewards, Travel and Business Services; act: American Express Credit Cards, Rewards, Travel and Business Services]" classname="core.SeleniumTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[Iteration # 23 : exp: Online Banking, CDs, Money Market, Savings &amp; Checking | Ally Bank; act: Online Banking, CDs, Money Market, Savings &amp; Checking | Ally]" time="0.0">
+      <testcase name="test_Title_Validation[Iteration # 23 : exp: Online Banking, CDs, Money Market, Savings &amp; Checking | Ally Bank; act: Online Banking, CDs, Money Market, Savings &amp; Checking | Ally]" classname="core.SeleniumTest" time="0.0">
+        <failure>
+          <expected>Online Banking, CDs, Money Market, Savings &amp; Checking | Ally Bank</expected>
+          <actual>Online Banking, CDs, Money Market, Savings &amp; Checking | Ally</actual>org.junit.ComparisonFailure: FAILED expected:&lt;...gs &amp; Checking | Ally[ Bank]&gt; but was:&lt;...gs &amp; Checking | Ally[]&gt;&#13;
+	at org.junit.Assert.assertEquals(Assert.java:115)&#13;
+	at core.SeleniumTest.test_Title_Validation(SeleniumTest.java:45)&#13;
+	at sun.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)&#13;
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+	at java.lang.reflect.Method.invoke(Method.java:483)&#13;
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)&#13;
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)&#13;
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.junit.runners.Suite.runChild(Suite.java:128)&#13;
+	at org.junit.runners.Suite.runChild(Suite.java:27)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</failure>
+      </testcase>
+    </testsuite>
+    <testsuite name="[Iteration # 24 : exp: List of largest banks in the United States - Wikipedia, the free encyclopedia; act: List of largest banks in the United States - Wikipedia, the free encyclopedia]" time="0.001">
+      <testcase name="test_Title_Validation[Iteration # 24 : exp: List of largest banks in the United States - Wikipedia, the free encyclopedia; act: List of largest banks in the United States - Wikipedia, the free encyclopedia]" classname="core.SeleniumTest" time="0.001"/>
+    </testsuite>
+  </testsuite>
+</testrun>

@@ -1,0 +1,241 @@
+2015-02-17 00:10:38,041 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\GoogleDisc\Nata_QA\Workspace_homework_41\Junit\pom.xml
+2015-02-17 00:10:38,848 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Junit:1.1 @ D:\GoogleDisc\Nata_QA\Workspace_homework_41\Junit\pom.xml.
+2015-02-17 00:10:39,205 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Junit/src/main/java
+2015-02-17 00:10:39,209 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Junit/src/test/java
+2015-02-17 00:10:39,640 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2015-02-17 00:10:40,214 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Junit:1.1 @ D:\GoogleDisc\Nata_QA\Workspace_homework_41\Junit\pom.xml.
+2015-02-17 00:10:40,401 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:10:40,401 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Junit\src\main\resources
+2015-02-17 00:10:40,403 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:10:40,403 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Junit\src\test\resources
+2015-02-17 00:10:40,776 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Junit:1.1 @ D:\GoogleDisc\Nata_QA\Workspace_homework_41\Junit\pom.xml.
+2015-02-17 00:10:41,612 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:10:41,613 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Junit\src\main\resources
+2015-02-17 00:10:41,614 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:10:41,614 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Junit\src\test\resources
+2015-02-17 00:10:50,575 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:10:50,575 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Junit\src\main\resources
+2015-02-17 00:10:50,576 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:10:50,576 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Junit\src\test\resources
+2015-02-17 00:36:56,595 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Junit:1.1 @ D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\pom.xml.
+2015-02-17 00:36:56,595 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Junit:1.1 @ D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\pom.xml.
+2015-02-17 00:36:57,766 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:36:57,766 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\main\resources
+2015-02-17 00:36:57,769 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:36:57,769 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-17 00:36:58,880 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:36:58,880 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\main\resources
+2015-02-17 00:36:58,882 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:36:58,882 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-17 00:36:58,885 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Junit:1.1 @ D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\pom.xml.
+2015-02-17 00:37:00,567 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:37:00,567 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\main\resources
+2015-02-17 00:37:00,568 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:37:00,568 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-17 00:37:09,059 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:37:09,059 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\main\resources
+2015-02-17 00:37:09,060 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:37:09,060 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-17 00:37:11,509 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:37:11,509 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\main\resources
+2015-02-17 00:37:11,510 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:37:11,510 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-17 00:37:16,844 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:37:16,845 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\main\resources
+2015-02-17 00:37:16,845 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:37:16,845 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-17 00:37:22,584 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:37:22,584 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\main\resources
+2015-02-17 00:37:22,584 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:37:22,585 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-17 00:37:25,174 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:37:25,182 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\main\resources
+2015-02-17 00:37:25,184 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:37:25,184 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-17 00:37:29,821 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:37:29,821 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\main\resources
+2015-02-17 00:37:29,822 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:37:29,822 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-17 00:37:45,741 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:37:45,741 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\main\resources
+2015-02-17 00:37:45,742 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:37:45,742 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-17 00:37:54,839 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:37:54,839 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\main\resources
+2015-02-17 00:37:54,839 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:37:54,840 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-17 00:39:07,445 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:39:07,446 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\main\resources
+2015-02-17 00:39:07,446 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:39:07,447 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-17 00:39:08,462 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:39:08,462 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\main\resources
+2015-02-17 00:39:08,463 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:39:08,463 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-17 00:39:28,723 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:39:28,723 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\main\resources
+2015-02-17 00:39:28,724 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:39:28,724 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-17 00:41:31,863 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:41:31,863 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\main\resources
+2015-02-17 00:41:31,864 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 00:41:31,864 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-17 01:30:49,093 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 01:30:49,093 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 01:30:49,093 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 01:30:49,093 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-17 01:45:44,831 [Worker-16] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:567) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:511) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:466) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:336) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:289) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </plagins> must be the same as start tag <plugins> from line 31 (position: TEXT seen ...</plugin>\n\t</plagins>... @56:12) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:127) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:91) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:556) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </plagins> must be the same as start tag <plugins> from line 31 (position: TEXT seen ...</plugin>\n\t</plagins>... @56:12) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:1734) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1169) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1131) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1118) ~[plexus-utils-3.0.17.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseBuild(MavenXpp3Reader.java:946) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2239) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	... 26 common frames omitted
+2015-02-17 01:45:46,120 [Worker-19] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:567) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:511) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:466) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:336) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:289) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) [org.eclipse.core.resources_3.9.1.v20140825-1431.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </plagins> must be the same as start tag <plugins> from line 31 (position: TEXT seen ...</plugin>\n\t</plagins>... @56:12) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:127) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:91) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:556) ~[org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </plagins> must be the same as start tag <plugins> from line 31 (position: TEXT seen ...</plugin>\n\t</plagins>... @56:12) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:1734) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1169) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1131) ~[plexus-utils-3.0.17.jar:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1118) ~[plexus-utils-3.0.17.jar:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseBuild(MavenXpp3Reader.java:946) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2239) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.2.1.jar:3.2.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122) ~[maven-model-builder-3.2.1.jar:3.2.1]
+	... 26 common frames omitted
+2015-02-17 01:46:04,042 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Title_Validation:1.1 @ D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\pom.xml.
+2015-02-17 01:46:04,750 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 01:46:04,750 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 01:46:04,750 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 01:46:04,750 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-17 01:46:06,207 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 01:46:06,223 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-02-17 01:46:06,223 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 01:46:06,223 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-17 01:46:21,774 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 01:46:21,774 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-17 01:46:21,774 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-17 01:46:21,774 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-18 23:00:30,816 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Title_Validation:1.1 @ D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\pom.xml.
+2015-02-18 23:00:31,457 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 23:00:31,457 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 23:00:31,457 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 23:00:31,457 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-18 23:00:32,970 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 23:00:32,970 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-02-18 23:00:32,985 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 23:00:32,985 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-18 23:05:16,327 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 23:05:16,327 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 23:05:16,327 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 23:05:16,327 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-18 23:05:27,324 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 23:05:27,324 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 23:05:27,324 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 23:05:27,324 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-18 23:28:32,982 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 23:28:32,982 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 23:28:32,982 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 23:28:32,982 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-18 23:35:44,469 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E
+2015-02-18 23:35:44,469 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B site
+2015-02-18 23:35:44,594 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 23:35:44,594 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 23:35:44,594 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 23:35:44,594 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-18 23:40:39,613 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 23:40:39,613 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-18 23:40:39,613 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 23:40:39,613 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-18 23:56:21,541 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 23:56:21,542 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2015-02-18 23:56:21,545 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-18 23:56:21,545 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E\src\test\resources
+2015-02-19 00:08:06,425 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E
+2015-02-19 00:08:06,425 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B site
+2015-02-19 00:27:50,564 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E
+2015-02-19 00:27:50,565 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B site
+2015-02-19 00:33:32,572 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\GoogleDisc\Nata_QA\Workspace_homework_41\Title_Validation_E2E
+2015-02-19 00:33:32,572 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B site
+2015-02-21 02:05:19,401 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: core:Title_Validation:1.1 @ D:\GoogleDisc\Nata_QA\Workspace_homework_41_1\Title_Validation_E2E\pom.xml.
+2015-02-21 02:05:20,369 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-21 02:05:20,369 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-02-21 02:05:20,385 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-21 02:05:20,385 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41_1\Title_Validation_E2E\src\test\resources
+2015-02-21 02:05:53,388 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-21 02:05:53,391 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-02-21 02:05:53,393 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-21 02:05:53,393 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41_1\Title_Validation_E2E\src\test\resources
+2015-02-21 02:06:35,615 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-21 02:06:35,615 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-02-21 02:06:35,615 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-21 02:06:35,615 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoogleDisc\Nata_QA\Workspace_homework_41_1\Title_Validation_E2E\src\test\resources
+2015-02-21 02:07:02,119 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\GoogleDisc\Nata_QA\Workspace_homework_41_1\Title_Validation_E2E
+2015-02-21 02:07:02,119 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B site
